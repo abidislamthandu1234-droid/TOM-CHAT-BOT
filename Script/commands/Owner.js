@@ -30,12 +30,12 @@ module.exports.run = async function ({ api, event }) {
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ https://www.facebook.com/tumar.lang?from_xma_click=1
+║ Facebook: https://www.facebook.com/profile.php?id= 61569265434383
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
 ║
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :01625412324
 ║ 
-║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
+║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :t.me/tmtitumirm
 ║ 
 ╚═════════════════════ ✿
 `;
