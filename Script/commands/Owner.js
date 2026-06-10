@@ -30,10 +30,10 @@ module.exports.run = async function ({ api, event }) {
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ https://www.facebook.com/share/1LL9eR8GwA/
+║ https://www.facebook.com/tumar.lang?from_xma_click=1
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
 ║
-║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
+║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :01625412324
 ║ 
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
 ║ 
