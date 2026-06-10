@@ -2,7 +2,7 @@ module.exports.config = {
  name: "info",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "T M Titumir M",
  description: "Bot information command",
  commandCategory: "For users",
  hide: true,
